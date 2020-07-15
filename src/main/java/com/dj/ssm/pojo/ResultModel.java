@@ -8,6 +8,9 @@ package com.dj.ssm.pojo;
  * @param <T>
  */
 public class ResultModel<T> {
+	
+	private Integer id = 200;
+
 
 	private String aa;
 
