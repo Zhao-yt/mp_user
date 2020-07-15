@@ -1,5 +1,9 @@
 package com.dj.ssm.pojo;
 
+/**
+ * 泛型
+ * @param <T>
+ */
 public class ResultModel<T> {
 
 	private Integer code = 200;
