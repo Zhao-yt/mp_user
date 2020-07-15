@@ -10,8 +10,9 @@ package com.dj.ssm.pojo;
 public class ResultModel<T> {
 	
 	private Integer id = 200;
-
-
+	private Integer id = 200;
+	private Integer id = 200;
+	private Integer id = 200;
 	private Integer code = 200;
 	private String msg = "请求成功";
 	private T data;
