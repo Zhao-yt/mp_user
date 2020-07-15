@@ -3,6 +3,7 @@ package com.dj.ssm.pojo;
 /**
  * 泛型
  * dev
+ * master
  * @param <T>
  */
 public class ResultModel<T> {
